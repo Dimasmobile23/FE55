@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+			background-image: url("images/gta.jpg");
+			background-size: cover;
+			background-attachment: fixed;
+			}
+		.div1 h2{
+			text-align: center;
+			text-transform: uppercase;
+			
+			}
+		.div1 p{
+			text-transform: lowercase;
+			text-indent: 20px;
+			color: white;
+			text-decoration: underline;
+			width: 50%;
+			
+		}

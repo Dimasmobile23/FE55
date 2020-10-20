@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.gif{
+			
+		
+		}
+		.little-back{
+				height: 600px;
+			 background: url(images/css-art.jpg), url(images/css-art.jpg), url(images/3.gif);
+    background-position: left, right, center;
+    background-size: 10%, 10%, 100%;
+    background-repeat: no-repeat;
+			
+		}
+		h1{
+			text-align: center;
+			color: green;
+			
+		}
+		p{
+			width: 100%;
+			text-align: justify;
+		}
+		.menu:hover{
+			border: solid 5px #6501A6;
+			color: aqua;
+			background-color: black;
+		}
+		h1{
+			text-decoration: underline;
+		}
